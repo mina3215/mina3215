@@ -7,7 +7,7 @@ ABOUT ME
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mina3215.tistory.com/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mina3215)](https://github.com/mina3215/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mina3215&show_icons=true&theme=radical)](https://github.com/mina3215/github-readme-stats)
 
 
 <!--
