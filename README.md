@@ -1,5 +1,11 @@
+##**ABOUT ME**
+
+**2018.03 ~ 2023.02 충북대학교 전자공학부  
+2023.01 ~ 2023.12 삼성 청년 SW 아카데미 9기  
+2024.01~**
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mina3215.tistory.com/)
+
 
 
 <!--
