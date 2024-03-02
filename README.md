@@ -1,4 +1,4 @@
-# PARK MINA
+# PARK MINA 😗
 
   
 # ABOUT ME
@@ -6,9 +6,8 @@
 2023.01 ~ 2023.12 삼성 청년 SW 아카데미 9기  
 2024.01~**
 
-# STUDY
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mina3215.tistory.com/)
-
+# STUDY 📖
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mina3215.tistory.com/)<a href="https://github.com/SolveGuys/AlgorithmStudy" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=icherom)](https://solved.ac/icherom/)
