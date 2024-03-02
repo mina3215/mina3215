@@ -1,9 +1,12 @@
-ABOUT ME
+# PARK MINA
 
+  
+# ABOUT ME
 **2018.03 ~ 2023.02 충북대학교 전자공학부  
 2023.01 ~ 2023.12 삼성 청년 SW 아카데미 9기  
 2024.01~**
 
+# STUDY
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mina3215.tistory.com/)
 
 
@@ -16,6 +19,7 @@ ABOUT ME
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mina3215&show_icons=true&theme=dark)](https://github.com/mina3215/github-readme-stats)
 
+# SKILLS
 
 <!--
 **mina3215/mina3215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
