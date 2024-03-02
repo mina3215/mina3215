@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://mina3215.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-배경색?style=뱃지모양&logo=tistory&logoColor=#000000"/></a>
+<a href="https://mina3215.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
 <!--
 **mina3215/mina3215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
