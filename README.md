@@ -7,7 +7,11 @@ ABOUT ME
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mina3215.tistory.com/)
 
 
-![로고명](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=icherom)](https://solved.ac/icherom/)
+
+    
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Python&logoColor=white)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mina3215)](https://solved.ac/mina3215/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mina3215&show_icons=true&theme=dark)](https://github.com/mina3215/github-readme-stats)
