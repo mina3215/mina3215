@@ -1,4 +1,4 @@
-<h1 style="border-bottom: none;">PARK MINA 😗</h1>
+# PARK MINA 😗
 
 # ABOUT ME
 **2018.03 ~ 2023.02 충북대학교 전자공학부  
