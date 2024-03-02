@@ -7,6 +7,8 @@ ABOUT ME
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mina3215.tistory.com/)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mina3215)](https://github.com/mina3215/github-readme-stats)
+
 
 <!--
 **mina3215/mina3215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
