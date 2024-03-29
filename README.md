@@ -6,7 +6,7 @@
 2024.01~**
 
 # STUDY 📖
-<a href="https://mina3215.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="https://mina3215.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-181717?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <a href="https://github.com/SolveGuys/AlgorithmStudy" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
