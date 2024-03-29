@@ -6,7 +6,9 @@
 2024.01~**
 
 # STUDY 📖
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mina3215.tistory.com/)<a href="https://github.com/SolveGuys/AlgorithmStudy" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://mina3215.tistory.com/)
+<a href="https://mina3215.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+<a href="https://github.com/SolveGuys/AlgorithmStudy" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  
