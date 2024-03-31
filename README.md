@@ -3,8 +3,7 @@
 # ABOUT ME
 **2018.03 ~ 2023.02 Chungbuk National University Electronics
 2023.01 ~ 2023.12 Samsung Sofware Academy for Youth
-2024.01 ~ Just Study
-**
+2024.01 ~ Just Study**
 
 # STUDY 📖
 <a href="https://mina3215.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-181717?style=for-the-badge&logo=tistory&logoColor=white"/></a>
