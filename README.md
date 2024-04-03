@@ -1,7 +1,7 @@
 # MINA PARK😗
 
-**I try to think hard and utilize what we learn for better code
-I value experiencing diverse perspetives through consistent communication
+**I try to think hard and utilize what we learn for better code  
+I value experiencing diverse perspetives through consistent communication  
 I create a better following through trial and experience**
 
 # ABOUT ME
