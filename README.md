@@ -1,8 +1,12 @@
 # MINA PARK😗
 
+**I try to think hard and utilize what we learn for better code
+I value experiencing diverse perspetives through consistent communication
+I create a better following through trial and experience**
+
 # ABOUT ME
 **2018.03 ~ 2023.02 Chungbuk National University Electronics  
-2023.01 ~ 2023.12 Samsung Sofware Academy for Youth  
+2023.01 ~ 2023.12 Samsung Sofware Academy for Youth 9th
 2024.01 ~ Just Study**
 
 # STUDY 📖
