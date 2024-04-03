@@ -1,8 +1,8 @@
 # MINA PARK😗
 
-**I try to think hard and utilize what we learn for better code  
-I value experiencing diverse perspetives through consistent communication  
-I create a better following through trial and experience**
+- **I try to think hard and utilize what we learn for better code**  
+- **I value experiencing diverse perspetives through consistent communication**  
+- **I create a better following through trial and experience**
 
 # ABOUT ME
 **2018.03 ~ 2023.02 Chungbuk National University Electronics  
