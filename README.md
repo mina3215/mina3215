@@ -6,7 +6,7 @@
 
 # ABOUT ME
 **2018.03 ~ 2023.02 Chungbuk National University Electronics  
-2023.01 ~ 2023.12 Samsung Sofware Academy for Youth 9th
+2023.01 ~ 2023.12 Samsung Sofware Academy for Youth 9th  
 2024.01 ~ Just Study**
 
 # STUDY 📖
