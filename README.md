@@ -7,7 +7,7 @@
 # ABOUT ME
 **2018.03 ~ 2023.02 Chungbuk National University Electronics  
 2023.01 ~ 2023.12 Samsung Software Academy for Youth 9th  
-2024.06 ~ Naver Boost Camp (Web) 9th
+2024.06 ~ Naver Boost Camp (Web) 9th**
 **[[Portfolio here!]](https://www.miricanvas.com/v/12w6u9u)**
 
 
